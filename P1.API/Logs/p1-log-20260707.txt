@@ -1,0 +1,15 @@
+2026-07-07 17:56:51.845 +03:30 [INF] HTTP GET / responded 404 in 1727.4724 ms
+2026-07-07 17:57:09.560 +03:30 [INF] HTTP GET / responded 404 in 1.3775 ms
+2026-07-07 18:52:45.189 +03:30 [INF] HTTP GET / responded 404 in 1064.6971 ms
+2026-07-07 18:53:18.072 +03:30 [INF] HTTP GET / responded 404 in 39.0902 ms
+2026-07-07 18:54:38.665 +03:30 [INF] HTTP POST /api/auth/register responded 404 in 1.6011 ms
+2026-07-07 18:55:19.772 +03:30 [INF] HTTP GET /api/productgroups responded 401 in 10.1437 ms
+2026-07-07 18:55:21.784 +03:30 [INF] HTTP GET /api/productgroups responded 401 in 0.7747 ms
+2026-07-07 19:03:39.164 +03:30 [INF] HTTP GET /api/users responded 401 in 2.3376 ms
+2026-07-07 19:03:51.130 +03:30 [INF] HTTP GET /api/users responded 401 in 0.3581 ms
+2026-07-07 21:31:06.927 +03:30 [INF] HTTP GET / responded 404 in 44.0595 ms
+2026-07-07 21:31:54.366 +03:30 [INF] HTTP POST /api/auth/register responded 404 in 1.8704 ms
+2026-07-07 21:36:45.905 +03:30 [INF] HTTP GET / responded 404 in 53.7559 ms
+2026-07-07 21:48:30.181 +03:30 [INF] HTTP GET / responded 404 in 57.9642 ms
+2026-07-07 21:50:45.580 +03:30 [INF] HTTP GET / responded 404 in 2.6868 ms
+2026-07-07 21:52:41.887 +03:30 [INF] HTTP GET / responded 404 in 45.3895 ms

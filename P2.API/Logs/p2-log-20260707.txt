@@ -1,0 +1,54 @@
+2026-07-07 18:52:45.159 +03:30 [INF] HTTP GET / responded 404 in 1064.0999 ms
+2026-07-07 18:53:18.080 +03:30 [INF] HTTP GET / responded 404 in 60.7682 ms
+2026-07-07 18:53:27.843 +03:30 [INF] HTTP GET /scalar/v1 responded 200 in 130.7958 ms
+2026-07-07 18:53:27.871 +03:30 [INF] HTTP GET /scalar/scalar.aspnetcore.js responded 200 in 11.5554 ms
+2026-07-07 18:53:27.874 +03:30 [INF] HTTP GET /scalar/scalar.js responded 200 in 13.9840 ms
+2026-07-07 18:53:28.147 +03:30 [INF] HTTP GET /openapi/v1.json responded 200 in 13.9860 ms
+2026-07-07 18:54:38.609 +03:30 [INF] Start processing HTTP request POST https://localhost:44333/api/auth/register
+2026-07-07 18:54:38.610 +03:30 [INF] Sending HTTP request POST https://localhost:44333/api/auth/register
+2026-07-07 18:54:38.692 +03:30 [INF] Received HTTP response headers after 79.4936ms - 404
+2026-07-07 18:54:38.693 +03:30 [INF] End processing HTTP request after 89.9961ms - 404
+2026-07-07 18:54:38.698 +03:30 [INF] HTTP POST /api/Auth/register responded 404 in 163.4973 ms
+2026-07-07 18:55:19.758 +03:30 [INF] Start processing HTTP request GET https://localhost:44333/api/productgroups
+2026-07-07 18:55:19.758 +03:30 [INF] Sending HTTP request GET https://localhost:44333/api/productgroups
+2026-07-07 18:55:19.778 +03:30 [INF] Received HTTP response headers after 19.2565ms - 401
+2026-07-07 18:55:19.778 +03:30 [INF] End processing HTTP request after 20.3535ms - 401
+2026-07-07 18:55:19.779 +03:30 [INF] HTTP GET /api/ProductGroups responded 401 in 28.7667 ms
+2026-07-07 18:55:21.781 +03:30 [INF] Start processing HTTP request GET https://localhost:44333/api/productgroups
+2026-07-07 18:55:21.781 +03:30 [INF] Sending HTTP request GET https://localhost:44333/api/productgroups
+2026-07-07 18:55:21.819 +03:30 [INF] Received HTTP response headers after 37.5965ms - 401
+2026-07-07 18:55:21.819 +03:30 [INF] End processing HTTP request after 38.137ms - 401
+2026-07-07 18:55:21.822 +03:30 [INF] HTTP GET /api/ProductGroups responded 401 in 42.4303 ms
+2026-07-07 18:57:48.008 +03:30 [INF] HTTP GET /Swagger/v1 responded 404 in 0.1040 ms
+2026-07-07 18:57:55.501 +03:30 [INF] HTTP GET /Swagger/v1 responded 404 in 0.1360 ms
+2026-07-07 19:03:39.130 +03:30 [INF] Start processing HTTP request GET https://localhost:44333/api/users
+2026-07-07 19:03:39.131 +03:30 [INF] Sending HTTP request GET https://localhost:44333/api/users
+2026-07-07 19:03:39.164 +03:30 [INF] Received HTTP response headers after 33.8386ms - 401
+2026-07-07 19:03:39.165 +03:30 [INF] End processing HTTP request after 34.2498ms - 401
+2026-07-07 19:03:39.165 +03:30 [INF] HTTP GET /api/Users responded 401 in 44.9411 ms
+2026-07-07 19:03:51.129 +03:30 [INF] Start processing HTTP request GET https://localhost:44333/api/users
+2026-07-07 19:03:51.129 +03:30 [INF] Sending HTTP request GET https://localhost:44333/api/users
+2026-07-07 19:03:51.133 +03:30 [INF] Received HTTP response headers after 3.8484ms - 401
+2026-07-07 19:03:51.133 +03:30 [INF] End processing HTTP request after 4.3264ms - 401
+2026-07-07 19:03:51.134 +03:30 [INF] HTTP GET /api/Users responded 401 in 5.3208 ms
+2026-07-07 21:31:06.988 +03:30 [INF] HTTP GET / responded 404 in 59.7027 ms
+2026-07-07 21:31:24.539 +03:30 [INF] HTTP GET /scalar/v1 responded 200 in 162.0418 ms
+2026-07-07 21:31:24.621 +03:30 [INF] HTTP GET /scalar/scalar.aspnetcore.js responded 200 in 12.1668 ms
+2026-07-07 21:31:24.624 +03:30 [INF] HTTP GET /scalar/scalar.js responded 200 in 14.4591 ms
+2026-07-07 21:31:24.996 +03:30 [INF] HTTP GET /openapi/v1.json responded 200 in 15.8313 ms
+2026-07-07 21:31:54.298 +03:30 [INF] Start processing HTTP request POST https://localhost:44333/api/auth/register
+2026-07-07 21:31:54.300 +03:30 [INF] Sending HTTP request POST https://localhost:44333/api/auth/register
+2026-07-07 21:31:54.373 +03:30 [INF] Received HTTP response headers after 70.8421ms - 404
+2026-07-07 21:31:54.374 +03:30 [INF] End processing HTTP request after 82.5364ms - 404
+2026-07-07 21:31:54.382 +03:30 [INF] HTTP POST /api/Auth/register responded 404 in 165.2389 ms
+2026-07-07 21:36:45.676 +03:30 [INF] HTTP GET / responded 404 in 44.1493 ms
+2026-07-07 21:37:02.233 +03:30 [INF] HTTP GET /scalar/v1 responded 200 in 181.5944 ms
+2026-07-07 21:37:02.278 +03:30 [INF] HTTP GET /scalar/scalar.aspnetcore.js responded 200 in 13.9938 ms
+2026-07-07 21:37:02.281 +03:30 [INF] HTTP GET /scalar/scalar.js responded 200 in 16.4428 ms
+2026-07-07 21:37:02.658 +03:30 [INF] HTTP GET /openapi/v1.json responded 200 in 21.4301 ms
+2026-07-07 21:48:30.177 +03:30 [INF] HTTP GET / responded 404 in 63.6140 ms
+2026-07-07 21:52:41.619 +03:30 [INF] HTTP GET / responded 404 in 44.0430 ms
+2026-07-07 21:52:54.217 +03:30 [INF] HTTP GET /scalar/v1 responded 200 in 191.6133 ms
+2026-07-07 21:52:54.257 +03:30 [INF] HTTP GET /scalar/scalar.aspnetcore.js responded 200 in 14.7906 ms
+2026-07-07 21:52:54.260 +03:30 [INF] HTTP GET /scalar/scalar.js responded 200 in 17.4486 ms
+2026-07-07 21:52:54.611 +03:30 [INF] HTTP GET /openapi/v1.json responded 200 in 15.1821 ms
